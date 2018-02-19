@@ -1,0 +1,36 @@
+{
+  "main": "bundles/angular2-markdown.umd.js",
+  "version": "2.2.3",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "ng",
+    "angular",
+    "angular2",
+    "angular4",
+    "angular5",
+    "ngx",
+    "markdown",
+    "prismjs"
+  ],
+  "author": {
+    "name": "Dimpu Aravind Buddha",
+    "email": "buddhaaravind@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dimpu/angular2-markdown.git"
+  },
+  "name": "angular2-markdown",
+  "dependencies": {
+    "marked": "^0.3.6",
+    "prismjs": "^1.8.4"
+  },
+  "peerDependencies": {
+    "rxjs": "^5.5.2",
+    "@angular/core": "^2.4.0 || ^4.0.3 || ^5.0.0"
+  },
+  "_id": "angular2-markdown@2.2.3",
+  "devDependencies": {}
+}
